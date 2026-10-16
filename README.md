@@ -139,21 +139,17 @@ An ongoing project exploring agentic AI workflows and modern AI application infr
 
 <div align="center">
 
-<a href="https://github.com/yosrtaktak">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=yosrtaktak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
-</a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yosrtaktak&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
 
-<a href="https://github.com/yosrtaktak">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosrtaktak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" alt="Most used programming languages"/>
-</a>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosrtaktak&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
 
 <br/>
 
-<img width="95%" src="https://streak-stats.demolab.com?user=yosrtaktak&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=F59E0B&currStreakLabel=22D3EE" alt="GitHub contribution streak"/>
+<img width="95%" src="https://streak-stats.demolab.com?user=yosrtaktak&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
 <br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=yosrtaktak&bg_color=0D1117&color=C9D1D9&line=22D3EE&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub activity graph"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=yosrtaktak&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph"/>
 
 </div>
 
