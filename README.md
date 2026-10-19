@@ -1,4 +1,3 @@
-
 <!-- ===================== HERO ===================== -->
 
 <div align="center">
@@ -6,19 +5,23 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,50:164E63,100:06B6D4&text=Yosr%20Taktak&fontSize=56&fontColor=FFFFFF&fontAlignY=38&desc=Cloud%20%7C%20DevOps%20%7C%20SRE%20%7C%20Observability&descSize=17&descAlignY=59&animation=fadeIn" alt="Yosr Taktak profile banner"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+reliable+cloud-native+systems;Kubernetes+%7C+GitOps+%7C+CI%2FCD;Observability+%7C+Monitoring+%7C+Resilience;Learning+by+building%2C+breaking+and+improving" alt="Animated introduction"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=Building+reliable+cloud-native+systems;Kubernetes+%7C+GitOps+%7C+CI%2FCD;SLOs+%7C+Observability+%7C+Chaos+Engineering;Seeking+a+Cloud+%2F+DevOps+%2F+SRE+internship+%C2%B7+Feb%E2%80%93Apr+2027" alt="Animated introduction"/>
 </a>
 
 <br/>
 
-<a href="https://github.com/yosrtaktak">
-  <img src="https://img.shields.io/badge/GitHub-yosrtaktak-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Open%20to-Cloud%20%2F%20DevOps%20%2F%20SRE%20internship-22C55E?style=for-the-badge" alt="Open to internship"/>
+
+<br/>
+
+<a href="https://github.com/yosrtaktak/yosrtaktak/blob/main/assets/CV_Yosr_Taktak_EN.pdf">
+  <img src="https://img.shields.io/badge/Resume-Download%20CV-0891B2?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Download CV"/>
 </a>
-<a href="https://www.linkedin.com/in/TON-LIEN">
+<a href="https://www.linkedin.com/in/yosrtaktak">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:TON-EMAIL">
-  <img src="https://img.shields.io/badge/Email-Contact-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<a href="mailto:yosrtaktak6@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=yosrtaktak&style=flat-square&color=0891B2&label=PROFILE+VIEWS" alt="Profile views"/>
@@ -27,33 +30,22 @@
 
 ---
 
-<!-- ===================== ABOUT ===================== -->
-
 ## `01` · About Me
 
 ```yaml
 name: Yosr Taktak
-role: Software Engineering Student
-interests:
-  - Cloud & DevOps
-  - Site Reliability Engineering
-  - Kubernetes & GitOps
-  - Observability & Resilience
-currently:
-  - Building cloud-native environments on K3s
-  - Exploring monitoring and chaos engineering
-  - Developing an agentic AI project with MLOps and RAG
-goal: Build, automate and improve reliable systems
+role: Software Engineering Student (final year, graduating June 2027)
+focus: [Cloud, DevOps, SRE, Observability]
+seeking: 6-month Cloud / DevOps / SRE internship (Feb-Apr 2027)
+relocation: open to relocation in Europe
+latest_work: Reliability platform on K3s (SLOs, chaos engineering, GitOps, on-call automation)
+location: Sfax, Tunisia
+languages: Arabic (native), French (C1), English (B2)
 ```
 
-I am a third-year software engineering student at the **International Institute of Technology (IIT), Sfax, Tunisia**, interested in building, deploying and monitoring cloud-native applications.
+I am a final-year software engineering student at the **International Institute of Technology (IIT), Sfax**. During my DevOps/SRE internship at **BePrimeTech**, I designed and validated, through chaos experiments, a full **detect → diagnose → remediate** reliability loop on Kubernetes.
 
-I enjoy exploring how automation, observability and resilience engineering help make distributed systems more reliable.
-
-- **Cloud-native:** containers, Kubernetes and application deployment
-- **GitOps & CI/CD:** automated delivery and declarative configuration
-- **Observability:** metrics, dashboards, logs and system health
-- **Resilience:** fault injection, recovery and reliability testing
+I am now looking to deepen this into production-grade Cloud engineering experience within an experienced platform or infrastructure team.
 
 ---
 
@@ -61,65 +53,145 @@ I enjoy exploring how automation, observability and resilience engineering help 
 
 <div align="center">
 
-### Cloud Native & Infrastructure
+### Containers, Kubernetes & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,bash,terraform,ansible&theme=dark" alt="Cloud and infrastructure tools"/>
+<img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,terraform&theme=dark" alt="Infrastructure tools"/>
 
-### CI/CD & Version Control
+<p>
+  <img src="https://img.shields.io/badge/K3s-326CE5?style=flat-square&logo=k3s&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Istio%20Ambient-466BB0?style=flat-square&logo=istio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kustomize-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab&theme=dark" alt="CI/CD and version control"/>
+### CI/CD, GitOps & DevSecOps
 
-### Monitoring & Development
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab&theme=dark" alt="CI/CD tools"/>
 
-<img src="https://skillicons.dev/icons?i=prometheus,grafana,python,java,spring,postgres,mysql&theme=dark" alt="Monitoring and development tools"/>
+<p>
+  <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=flat-square&logo=argo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CodeQL-2B7489?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gitleaks-0F172A?style=flat-square&logo=git&logoColor=white"/>
+</p>
+
+### Observability & SRE
+
+<img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" alt="Observability tools"/>
+
+<p>
+  <img src="https://img.shields.io/badge/Loki-F5A800?style=flat-square&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tempo-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Alertmanager-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LitmusChaos-5B44BA?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white"/>
+</p>
+
+### Programming, Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=python,java,spring,ts,js,angular,nodejs,nextjs,fastapi,postgres,mysql,mongodb&theme=dark" alt="Development tools"/>
+
+### Currently learning
+
+<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Essentials%20(course%20completed)-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
 
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Kubernetes-K3s-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitOps-Argo%20CD-EF7B4D?style=flat-square&logo=argo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Observability-OpenTelemetry-F5A800?style=flat-square&logo=opentelemetry&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Monitoring-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dashboards-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
-</p>
+---
+
+## `03` · Reliability Platform · SRE in Action
+
+> **DevOps & SRE Internship — BePrimeTech (Jun – Aug 2026)**: production-readiness and reliability platform for an 11-microservice e-commerce application on K3s.
+
+<div align="center">
+  <img width="100%" src="assets/key-results.svg" alt="Key results: 11 microservices, 5 SLOs, 16 alerts, 8 chaos experiments, MTTA 3 min 17 s, 6 Argo CD applications"/>
+</div>
+
+### 🔁 Delivery & observability pipeline
+
+<div align="center">
+  <img width="100%" src="assets/pipeline.svg" alt="Pipeline: Commit, CI, Argo CD, K3s, Prometheus, Grafana"/>
+</div>
+
+### 🏗️ Architecture
+
+```mermaid
+flowchart LR
+    DEV([Developer]) -->|git push| GH[GitHub]
+    GH --> CI[GitHub Actions<br/>Trivy · CodeQL · Gitleaks]
+    TF[Terraform] -->|provisions| K3S
+
+    subgraph K3S[K3s cluster · Istio Ambient · strict mTLS]
+        direction TB
+        APP[11 microservices]
+        OBS[Prometheus · Loki · Tempo<br/>OpenTelemetry · Kiali]
+        AM[Alertmanager]
+        APP -->|metrics · logs · traces| OBS
+        OBS --> AM
+    end
+
+    GH -->|manifests| ARGO[Argo CD<br/>6 applications · selfHeal]
+    ARGO -->|sync| K3S
+    OBS --> GRAF[Grafana<br/>5 dashboards as code]
+
+    LITMUS{{LitmusChaos<br/>Argo Workflows}} -.->|fault injection| APP
+
+    AM --> ONCALL[GoAlert · ntfy · Slack]
+    AM --> HOLMES[HolmesGPT · Gemini<br/>Qdrant RAG · read-only]
+    HOLMES -.->|proposed fix| PR[Human-reviewed PR]
+    PR --> GH
+
+    classDef main fill:#0F172A,stroke:#22D3EE,color:#E2E8F0;
+    classDef chaos fill:#1E1B2E,stroke:#F43F5E,color:#E2E8F0;
+    classDef ai fill:#1E1B2E,stroke:#A78BFA,color:#E2E8F0;
+    class GH,CI,TF,APP,OBS,AM,ARGO,GRAF,ONCALL,PR main;
+    class LITMUS chaos;
+    class HOLMES ai;
+```
+
+### 💥 Chaos-validated reliability loop
+
+<div align="center">
+  <img width="100%" src="assets/reliability-loop.svg" alt="Reliability loop: inject, detect, diagnose, remediate, re-test"/>
+</div>
+
+### 🎯 SLO-based alerting
+
+- **5 SLOs (99% – 99.95%)** defined on user-centric SLIs, measured at the mesh L7 layer
+- **Multi-burn-rate alerting** following the Google SRE Workbook: 16 alerts, 8 inhibition rules, Slack routing by severity
+- **Incident management:** GoAlert, ntfy, Slack war room with ChatOps, incident database
+- **Hardening:** default-deny authorization policies, PodDisruptionBudgets, tuned resource limits, observability stack packaged as a single Helm chart
 
 ---
 
-## `03` · Featured Projects
+## `04` · Experience & Projects
+
+| Period | Role | What I built |
+|---|---|---|
+| Jun – Aug 2026 | **DevOps & SRE Intern** · BePrimeTech | Reliability platform on K3s: SLO alerting, chaos engineering, GitOps, on-call automation |
+| Feb – Jun 2025 | **Full-Stack Developer** · Collary platform | Angular 17 / Spring Boot / MySQL features for recruitment agencies and healthcare facilities |
+| Feb – May 2024 | **Full-Stack Developer Intern** · IT SERV | Spring Boot microservices (Eureka, API Gateway, Config Server) for a task and timesheet platform |
+| Jul – Aug 2023 | **Network Monitoring Intern** · New Engineering IT | Zabbix monitoring of Windows, Linux and web servers via agents and SNMP |
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://img.shields.io/badge/SRE-Observability-0891B2?style=flat-square" alt="SRE and observability"/>
+### 🛒 Retail ERP
 
-**Cloud-Native Observability & GitOps**
+Stock batch logic, audited stock movements, scheduled alerting with Firebase push, JWT roles, POS and analytics UI.
 
-A Kubernetes-based environment built around deployment automation, monitoring and reliability experiments.
-
-- K3s and Kubernetes workloads
-- GitOps delivery with Argo CD
-- Prometheus and Grafana monitoring
-- Dashboards and observability integrations
-- Chaos engineering experiments
-
-**Focus:** Reliability · Automation · Monitoring
+`Next.js 14` `TypeScript` `Prisma` `PostgreSQL`
 
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://img.shields.io/badge/AI-In%20Progress-7C3AED?style=flat-square" alt="AI project in progress"/>
+### 📈 Decision-Support Platform
 
-**RhFlow — Agentic AI**
+Team project: automated data pipeline, analytics dashboards, sales forecasting and a local-LLM assistant.
 
-An ongoing project exploring agentic AI workflows and modern AI application infrastructure.
-
-- Retrieval-Augmented Generation (RAG)
-- MLOps concepts and integration
-- AI workflow development
-- Experimentation and iterative improvement
-
-**Focus:** AI Engineering · RAG · MLOps
+`SQL Server` `SSIS` `SSAS` `React` `FastAPI` `Ollama`
 
 </td>
 </tr>
@@ -135,36 +207,10 @@ An ongoing project exploring agentic AI workflows and modern AI application infr
 
 ---
 
-## `04` · GitHub Analytics
+## `05` · Contribution Graph
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yosrtaktak&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosrtaktak&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
-
-<br/>
-
-<img width="95%" src="https://streak-stats.demolab.com?user=yosrtaktak&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-
-<br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=yosrtaktak&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph"/>
-
-</div>
-
----
-
-## `05` · Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yosrtaktak/yosrtaktak/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yosrtaktak/yosrtaktak/output/github-snake.svg"/>
-  <img width="100%" src="https://raw.githubusercontent.com/yosrtaktak/yosrtaktak/output/github-snake.svg" alt="Snake animation following GitHub contributions"/>
-</picture>
-
+  <img width="100%" src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph of yosrtaktak"/>
 </div>
 
 ---
@@ -172,10 +218,6 @@ An ongoing project exploring agentic AI workflows and modern AI application infr
 <div align="center">
 
 ### Build · Automate · Observe · Improve
-
-*“Hope is not a strategy.”*
-
-<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0F172A,50:164E63,100:06B6D4" alt="Decorative footer"/>
 
