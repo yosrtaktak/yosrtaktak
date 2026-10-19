@@ -52,50 +52,9 @@ I am now looking to deepen this into production-grade Cloud engineering experien
 ## `02` · Technology Stack
 
 <div align="center">
-
-### Containers, Kubernetes & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,terraform&theme=dark" alt="Infrastructure tools"/>
-
-<p>
-  <img src="https://img.shields.io/badge/K3s-326CE5?style=flat-square&logo=k3s&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Istio%20Ambient-466BB0?style=flat-square&logo=istio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kustomize-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-</p>
-
-### CI/CD, GitOps & DevSecOps
-
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab&theme=dark" alt="CI/CD tools"/>
-
-<p>
-  <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=flat-square&logo=argo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CodeQL-2B7489?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gitleaks-0F172A?style=flat-square&logo=git&logoColor=white"/>
-</p>
-
-### Observability & SRE
-
-<img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" alt="Observability tools"/>
-
-<p>
-  <img src="https://img.shields.io/badge/Loki-F5A800?style=flat-square&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tempo-F46800?style=flat-square&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Alertmanager-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LitmusChaos-5B44BA?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white"/>
-</p>
-
-### Programming, Backend & Databases
-
-<img src="https://skillicons.dev/icons?i=python,java,spring,ts,js,angular,nodejs,nextjs,fastapi,postgres,mysql,mongodb&theme=dark" alt="Development tools"/>
-
-### Currently learning
-
-<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Essentials%20(course%20completed)-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-
+  <img width="100%" src="assets/stack.svg" alt="Technology stack: Linux, Docker, Kubernetes, K3s, Istio, Helm, Terraform, Argo CD, Prometheus, Grafana, Loki, Tempo, OpenTelemetry, Kiali, LitmusChaos and more"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Essentials%20(course%20completed)-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="Currently learning AWS"/>
 </div>
 
 ---
